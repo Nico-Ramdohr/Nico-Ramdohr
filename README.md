@@ -1,16 +1,13 @@
-<!-- Profile README — Nico Ramdohr · repo: github.com/nico-ramdohr/nico-ramdohr (público) -->
+<!-- Profile README — Nico Ramdohr · repo: github.com/Nico-Ramdohr/Nico-Ramdohr (público) -->
+<!-- IMPORTANTE: sube TAMBIÉN el archivo header.svg a la raíz del repo, junto a este README. -->
+
+![Nico Ramdohr](header.svg)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1437,50:3B82F6,100:8B5CF6&height=200&section=header&text=Nico%20Ramdohr&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Founder%20%40%20Intelify%20·%20IA%2C%20Automatización%20%26%20Performance%20Marketing&descAlignY=60&descSize=18" width="100%"/>
-
-<a href="https://intelify.cl"><img src="https://img.shields.io/badge/intelify.cl-0B1437?style=for-the-badge&logo=googlechrome&logoColor=3B82F6"/></a>
-<a href="https://www.linkedin.com/in/nico-ramdohr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:contacto@intelify.cl"><img src="https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Construyo+sistemas+comerciales+con+IA+que+venden+solos;Automatización+que+capta%2C+atiende+y+convierte;Medible+de+punta+a+punta%2C+sin+humo"/>
+[![Web](https://img.shields.io/badge/intelify.cl-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://intelify.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-ramdohr/)
+[![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@intelify.cl)
 
 </div>
 
@@ -64,19 +61,9 @@ ubicación:  Chile 🇨🇱  ·  trabajo remoto
 
 | Proyecto | Descripción |
 |---|---|
-| **[Vale — Sistema Comercial con IA](https://github.com/nico-ramdohr/vale-showcase)** | Agente omnicanal que capta, califica, cotiza, agenda y da seguimiento a leads. Arquitectura, motor de seguimiento y motor de contenido. |
+| **[Vale — Sistema Comercial con IA](https://github.com/Nico-Ramdohr/vale-showcase)** | Agente omnicanal que capta, califica, cotiza, agenda y da seguimiento a leads. Arquitectura, motor de seguimiento y motor de contenido. |
 | **[Intelify](https://intelify.cl)** | Agencia de IA, automatización y performance marketing. Sistemas comerciales medibles de punta a punta. |
 
-> 📌 *Fija (pin) tus mejores repos para que aparezcan aquí arriba en tu perfil.*
-
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nico-ramdohr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=nico-ramdohr&hide_border=true&theme=tokyonight)
-
-</div>
 
 ---
 
@@ -87,7 +74,7 @@ ubicación:  Chile 🇨🇱  ·  trabajo remoto
 ¿Quieres un sistema comercial que venda solo, o sumar a alguien que construye este tipo de automatización?
 
 [![Web](https://img.shields.io/badge/intelify.cl-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://intelify.cl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-ramdohr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-ramdohr/)
 [![Email](https://img.shields.io/badge/contacto@intelify.cl-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@intelify.cl)
 
 <sub>⚡ "Medir → captar → atender → convertir → escalar"</sub>
