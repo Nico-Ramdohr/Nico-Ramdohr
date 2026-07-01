@@ -54,7 +54,7 @@ Sistemas reales que diseñé y construí. El código de producción es privado; 
 | 🎠 **[AI Carousel Publisher](https://github.com/intelify-cl/carousel-publisher)** | Carruseles IG/LinkedIn con control de calidad por visión de IA y auto-reparación. |
 | 💬 **[WhatsApp AI Sales Agent](https://github.com/intelify-cl/showcase-whatsapp-ai-agent)** | Agente de WhatsApp multimodal, anclado a datos reales (anti-alucinación). |
 | 🎯 **[AI Lead Funnel](https://github.com/intelify-cl/showcase-lead-funnel)** | Captación con enriquecimiento del lead por IA y ruteo inteligente. |
-| 🏢 **[InmoSuite — Motor Financiero](https://github.com/intelify-cl/inmosuite-showcase)** | Calificación financiera y matching de proyectos inmobiliarios, end-to-end. |
+| 🏢 **[InmoSuite — Motor Financiero](https://github.com/intelify-cl/showcase-inmosuite)** | Calificación financiera y matching de proyectos inmobiliarios, end-to-end. |
 
 ### 💬 Hablemos
 
@@ -122,7 +122,7 @@ Real systems I designed and built. Production code is private; these are **showc
 | 🎠 **[AI Carousel Publisher](https://github.com/intelify-cl/carousel-publisher)** | IG/LinkedIn carousels with AI vision quality control and self-healing. |
 | 💬 **[WhatsApp AI Sales Agent](https://github.com/intelify-cl/showcase-whatsapp-ai-agent)** | Multimodal WhatsApp agent, grounded in real data (no hallucinations). |
 | 🎯 **[AI Lead Funnel](https://github.com/intelify-cl/showcase-lead-funnel)** | Lead capture with AI enrichment and smart routing. |
-| 🏢 **[InmoSuite — Financial Engine](https://github.com/intelify-cl/inmosuite-showcase)** | Financial qualification and real-estate project matching, end-to-end. |
+| 🏢 **[InmoSuite — Financial Engine](https://github.com/intelify-cl/showcase-inmosuite)** | Financial qualification and real-estate project matching, end-to-end. |
 
 ### 💬 Let's talk
 
