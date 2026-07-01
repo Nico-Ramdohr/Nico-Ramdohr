@@ -69,7 +69,7 @@ Sistemas reales que diseñé y construí. El código de producción es privado; 
 | 🎠 **[AI Carousel Publisher](https://github.com/intelify-cl/carousel-publisher)** | Carruseles IG/LinkedIn con control de calidad por visión de IA y auto-reparación. |
 | 💬 **[WhatsApp AI Sales Agent](https://github.com/intelify-cl/showcase-whatsapp-ai-agent)** | Agente de WhatsApp multimodal, anclado a datos reales (anti-alucinación). |
 | 🎯 **[AI Lead Funnel](https://github.com/intelify-cl/showcase-lead-funnel)** | Captación con enriquecimiento del lead por IA y ruteo inteligente. |
-| 🏢 **[InmoSuite — Motor Financiero](https://github.com/intelify-cl/inmosuite-showcase)** | Calificación financiera y matching de proyectos inmobiliarios, end-to-end. |
+| 🏢 **[InmoSuite — Motor Financiero](https://github.com/Intelify-cl/showcase-inmosuite)** | Calificación financiera y matching de proyectos inmobiliarios, end-to-end. |
 
 ---
 
