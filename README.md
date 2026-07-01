@@ -7,6 +7,7 @@
 
 [![Web](https://img.shields.io/badge/intelify.cl-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://intelify.cl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-ramdohr/)
+[![Intelify](https://img.shields.io/badge/@intelify--cl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/intelify-cl)
 [![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@intelify.cl)
 
 </div>
@@ -59,11 +60,16 @@ ubicación:  Chile 🇨🇱  ·  trabajo remoto
 
 ### 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| **[Vale — Sistema Comercial con IA](https://github.com/Nico-Ramdohr/vale-showcase)** | Agente omnicanal que capta, califica, cotiza, agenda y da seguimiento a leads. Arquitectura, motor de seguimiento y motor de contenido. |
-| **[Intelify](https://intelify.cl)** | Agencia de IA, automatización y performance marketing. Sistemas comerciales medibles de punta a punta. |
+Sistemas reales que diseñé y construí. El código de producción es privado; estos son **showcases** (con clientes anonimizados) en la organización [**@intelify-cl**](https://github.com/intelify-cl).
 
+| Proyecto | Qué es |
+|---|---|
+| 🤖 **[Vale — Sistema Comercial con IA](https://github.com/intelify-cl/vale-showcase)** | Agente omnicanal que capta, califica, cotiza, agenda y da seguimiento a leads. |
+| 📝 **[GEO Blog Publisher](https://github.com/intelify-cl/geo-blog-publisher)** | Publica artículos optimizados para Google y motores de IA (JSON-LD), en piloto automático. |
+| 🎠 **[AI Carousel Publisher](https://github.com/intelify-cl/carousel-publisher)** | Carruseles IG/LinkedIn con control de calidad por visión de IA y auto-reparación. |
+| 💬 **[WhatsApp AI Sales Agent](https://github.com/intelify-cl/showcase-whatsapp-ai-agent)** | Agente de WhatsApp multimodal, anclado a datos reales (anti-alucinación). |
+| 🎯 **[AI Lead Funnel](https://github.com/intelify-cl/showcase-lead-funnel)** | Captación con enriquecimiento del lead por IA y ruteo inteligente. |
+| 🏢 **[InmoSuite — Motor Financiero](https://github.com/intelify-cl/inmosuite-showcase)** | Calificación financiera y matching de proyectos inmobiliarios, end-to-end. |
 
 ---
 
