@@ -1,7 +1,7 @@
 <!-- Profile README — Nico Ramdohr · repo: github.com/Nico-Ramdohr/Nico-Ramdohr (público) -->
 <!-- IMPORTANTE: sube TAMBIÉN el archivo header.svg a la raíz del repo, junto a este README. -->
 
-![Nico Ramdohr](header.svg)
+![Nico Ramdohr](header.svg?v=2)
 
 <div align="center">
 
